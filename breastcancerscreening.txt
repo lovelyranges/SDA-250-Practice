@@ -1,0 +1,625 @@
+74 Cancer January 1, 2021
+Original Article
+“This Is Some Mess Right Here”: Exploring Interactions Between
+Black Sexual Minority Women and Health Care Providers for
+Breast Cancer Screening and Care
+Naomi Greene, MPH 1
+; Jowanna Malone, MSc2
+; Mary Anne Adams, MSW3
+; Lorraine T. Dean, ScD2,4; and
+Tonia Poteat, PhD2,5
+BACKGROUND: Few studies have explored how the intersection of race and sexual identity contribute to breast cancer disparities for
+Black sexual minority women (SMW). Issues within patient-provider relationships, including bias, contribute to health disparities for
+minority groups. The authors used constructs from self-determination theory (SDT) to explore the nature of health care provider interactions in breast cancer screening and care among Black SMW. METHODS: Participants were sampled nationally through social media,
+targeted emails, and referrals. Qualitative, in-depth interviews were conducted with 15 Black cisgender SMW, ages 38 to 64 years, who
+had a breast cancer diagnosis or recent abnormal mammogram. Interviews were conducted face-to-face or online, audio-recorded,
+and transcribed verbatim. Two analysts coded the interviews. Codes were analyzed across interviews to identify themes salient to SDT.
+RESULTS: Themes aligned with the SDT constructs of relatedness and autonomy. Some participants discussed feeling most understood
+by Black and/or female providers who shared at least 1 of their identities. Feeling understood through shared identity contributed to
+participants feeling seen and heard by their providers. Participants who discussed negative experiences with providers believed that
+the provider made negative assumptions about them based on their race and/or sexual orientation. CONCLUSIONS: When interacting
+with health care providers for breast cancer screening and care, Black SMW face specific challenges related to their multiply marginalized social position. Reducing health care provider bias toward Black SMW may improve patients’ desires to continue in care. Providing
+equitable care while acknowledging and respecting women with multiply marginalized identities may improve the nature of these interactions. Cancer 2021;127:74-81. © 2020 American Cancer Society.
+KEYWORDS: African Americans, breast neoplasms, early detection of cancer, female, personal autonomy, physician-patient relations,
+sexual and gender minorities.
+INTRODUCTION
+Breast cancer is the most frequently diagnosed cancer in women.1
+ Disparities in breast cancer screening risk and mortality
+have been found in studies of sexual minority women (SMW) and studies of Black cisgender women (ie, women assigned
+female at birth).2-5 SMW have a higher prevalence of breast cancer risk factors than other women, including nulliparity,
+alcohol consumption, smoking, and obesity.6
+ Despite this higher risk, SMW have a lower lifetime prevalence of screening
+mammograms compared with heterosexual women7
+ and have less timely screening7-11 because of negative beliefs about
+care, lower perceived severity, lack of health insurance, costs of care, and perceptions of heterosexism and homophobia
+among providers.8-11 We found no studies that examined whether or how these barriers may affect follow-up after abnormal screening. The small numbers of racial/ethnic minority participants in prior studies limit the ability to assess whether
+barriers to screening and follow-up for sexual minorities apply across racial groups.4
+Black women are diagnosed at later stages of breast cancer than White women because of lower frequency of mammograms, longer time between mammograms, and lack of timely follow-up after abnormal mammograms,12-15 even
+among the insured.16 The persistent racial disparity in follow-up after abnormal mammograms has contributed to disparities in breast cancer mortality between Black and White women.17,18 Previous studies suggest that Black women
+have 1.39-fold odds of a 2-month delay in breast cancer diagnosis after an abnormal mammogram and up to a 2.24-fold
+delay in diagnosis and treatment combined.13 Delays in diagnosis result in an increased risk of an advanced stage of
+breast cancer.14 In addition to race, barriers to timely follow-up after an abnormal mammogram include low income,
+Corresponding Author: Naomi Greene, MPH, Department of Health, Behavior, and Society, Johns Hopkins Bloomberg School of Public Health, 624 N. Broadway,
+Baltimore, MD 21205 (ngreene9@jhmi.edu).
+1
+Department of Health, Behavior, and Society, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland; 2
+Department of Epidemiology, Johns
+Hopkins Bloomberg School of Public Health, Baltimore, Maryland; 3
+ZAMI NOBLA: National Organization of Black Lesbians on Aging, Atlanta, Georgia; 4
+Department of
+Oncology, Sidney Kimmel Cancer Center, New York, New York; 5
+Department of Social Medicine, University of North Carolina Chapel Hill School of Medicine, Chapel Hill,
+North Carolina
+Additional supporting information may be found in the online version of this article.
+DOI: 10.1002/cncr.33219, Received: June 11, 2020; Accepted: August 13, 2020, Published online September 29, 2020 in Wiley Online Library (wileyonlinelibrary.com)
+Black Sexual Minority Women Cancer Care/Greene et al
+Cancer January 1, 2021 75
+perceived discrimination, and lack of insurance,19,20 factors also common among SMW.8-11 However, there is a
+dearth of research on how having multiple marginalized
+identities (ie, Black SMW) affects breast cancer screening
+and follow-up.21
+Black SMW who face intersecting issues of racism
+and homophobia may be less trusting of the health care
+system.22 This intersection creates a unique context for
+breast cancer screening and follow-up23; however, there
+are limited data to inform effective interventions for
+Black SMW.21 For example, when attempting to compare
+mammogram use between Black and White SMW using
+data from the 2015 National Health Interview Survey
+and Cancer Supplement, the sample of racial and sexual
+minorities was too small for statistical comparison. The
+limitations of existing data highlight the need for a purposive sample of Black SMW.
+Only 2 peer-reviewed articles have specifically
+examined breast cancer screening and care in Black
+SMW.2,23 Matthews and colleagues found that breast
+cancer risk factors, including obesity, physical inactivity, tobacco use, and alcohol use, were prevalent among
+Black SMW, yet perceptions of cancer risk were low.2
+This mismatch between risk factors and risk perception was associated with delays in care and low rates of
+prior screening mammograms.2
+ Matthews et al concede
+that their exploratory study was limited by recruiting
+participants from a single urban location and the lack
+of a comparator sample. Washington and Murray describe an intervention designed to improve breast cancer screening among Black SMW but do not address
+engagement in care beyond screening or provide data
+on the intervention’s efficacy.23 Both Matthews et al
+and Washington and Murray highlight the need for
+breast cancer care providers to be more sensitive to
+Black SMW; yet neither address specific barriers or facilitators to care-seeking after an abnormal screening.
+Importantly, neither study used qualitative methods to
+assess how to address barriers to follow-up care in ways
+that meet the expressed needs of Black SMW.
+To address these gaps, we conducted a qualitative
+study assessing Black SMW’s care experiences after an
+abnormal mammogram or breast cancer diagnosis. Our
+study was guided by Ryan and Deci’s self-determination
+theory (SDT), a theory of human motivation that has
+been applied to many domains, including health.24,25
+SDT focuses on how social and cultural factors facilitate or undermine people’s sense of volition and initiative. Social and structural conditions that support
+3 basic human needs, ie, autonomy, competence, and
+relatedness, are theorized to foster the highest forms
+of motivation and engagement in action (Fig. 1).26,27
+Autonomy is the feeling that one is in control of what
+happens to them.25 Competence is one’s belief that one
+can achieve a particular outcome.25 Finally, relatedness
+is the sense of connection one feels with other people.25
+Support and subsequent satisfaction of these basic
+needs have been shown in other health studies to motivate the initiation and long-term maintenance of health
+behaviors.28 We used these SDT constructs to explore
+the types of health care interactions Black SMW have
+in breast cancer screening and follow-up care and to
+understand the barriers and facilitators women face in
+the health care system.
+MATERIALS AND METHODS
+Sample
+In partnership with ZAMI National Organization of
+Black Lesbians on Aging (NOBLA), a nonprofit organization serving Black SMW, we recruited a purposive
+sample of Black SMW through social media, grassroots
+organizations, Black churches, and referrals from participants. Participants had to meet the following inclusion criteria: 1) aged ≥35 years, 2) assigned female at
+birth, 3) self-identify as a sexual minority (gay, lesbian,
+bisexual, or same-gender loving), 4) identify as Black or
+African American, and 5) have a history of breast cancer
+or an abnormal result on their most recent mammogram.
+Individuals were excluded if they were unable to provide
+consent in English.
+Informed Consent
+The study was approved by the Johns Hopkins University
+Institutional Review Board. Study staff provided either
+emailed or postal-mailed copies of the consent form to
+individuals who screened eligible and expressed interest in
+participating. The interviewer re-screened the participant
+and conducted oral informed consent procedures before
+initiating data collection. No participant identifiers were
+requested or provided during data collection.
+Data Collection
+In consultation with the leadership of ZAMI NOBLA,
+study investigators developed the semistructured interview guide (see Supporting Materials). The interview
+guide focused on 3 major domains: intersecting identities, general health, and breast health. Participants were
+asked about facilitators and barriers to quality breast
+cancer screening, treatment, and follow-up care. In
+the domain of intersecting identities, participants were 
+Original Article
+76 Cancer January 1, 2021
+asked questions such as, “What has been challenging
+about your identities? How do you manage the challenges?” In the domain of general health, participants
+were asked questions such as, “How would you describe
+the availability and quality of services to meet your
+health needs?” In the domain of breast health, participants were asked questions such as, “What, if anything,
+made it hard for you to get screening? What things
+made it easy?”
+One of the authors (M.A.A.) interviewed 15 participants between September 2017 and July 2018 in person
+or virtually using Zoom, a Health Insurance Portability
+and Accountability Act of 1996 (HIPAA)-compliant
+video teleconferencing system. Interviews lasted from 60
+to 90 minutes, were audio recorded, and audio files were
+transcribed by a professional transcription service.
+Data Analysis
+Transcribed interviews were managed using the qualitative research software ATLAS.ti version 8 (Scientific
+Software Development GmbH). We developed a preliminary codebook using a priori codes that included topics
+from each domain in the interview guide as well as constructs from SDT (described above). J.M. coded the first
+7 interviews, and N.G. coded the following 8 interviews
+after reviewing the coding scheme used by J.M. to ensure
+consistent application of codes. The 2 analysts discussed
+and resolved any differences in coding schemes throughout the coding process. Analysis included both vertical
+and horizontal comparisons (ie, both within and across
+interviews) to identify recurrent and emergent themes
+with a focus on constructs of SDT.
+Reflexivity
+The authors are a diverse group of Black cisgender women,
+3 of whom identify as sexual minorities (ie, queer, lesbian,
+bisexual) and 2 who identify as heterosexual. Four authors
+are academics, with 1 being an academic and a clinician.
+One author is a social worker and community organizer.
+Figure 1. Self-determination theory is illustrated. Adapted from the Center for Community Health & Prevention, University of
+Rochester Medical Center.27
+ŽŵƉĞƚĞŶĐĞ
+dŚĞďĞůŝĞĨƚŚĂƚŽŶĞĐĂŶ
+ĂĐŚŝĞǀĞĂƉĂƌƟĐƵůĂƌ
+ŽƵƚĐŽŵĞ
+ƵƚŽŶŽŵǇ
+dŚĞĨĞĞůŝŶŐŽĨďĞŝŶŐƚŚĞ
+ŽƌŝŐŝŶŽĨŽŶĞ͛ƐŽǁŶ
+ďĞŚĂǀŝŽƌ
+ZĞůĂƚĞĚŶĞƐƐ
+dŚĞŶĞĞĚƚŽĨĞĞů
+ĐŽŶŶĞĐƚĞĚĂŶĚ
+ďĞůŽŶŐŝŶŐŶĞƐƐǁŝƚŚ
+ŽƚŚĞƌƐ
+DŽƟǀĂƟŽŶ
+TABLE 1. Characteristics of Black Sexual Minority
+Interviewees, N = 15
+No. of
+Interviewees (%)
+Age: Mean [range], y 50.2 [38-64]
+Sexual identity
+Lesbian 12 (80.0)
+Gay 2 (13.3)
+Bisexual 1 (6.7)
+Education
+High school 3 (20.0)
+Some college 4 (26.7)
+College graduate/advanced degree 8 (53.3)
+Employment status
+Employed 13 (86.7)
+Unemployed/retired 2 (13.3)
+Relationship status
+Single 8 (53.3)
+Married or partnered 7 (46.7)
+Breast cancer diagnosis
+Yes 13 (86.7)
+No, abnormal mammogram only 2 (13.3)
+Black Sexual Minority Women Cancer Care/Greene et al
+Cancer January 1, 2021 77
+RESULTS
+Participant Characteristics
+Patient characteristics are outlined in Table 1.
+Themes
+Each construct from SDT was salient across the interviews:
+autonomy, competence, and relatedness (Tables 2, 3,
+and 4). The theme of alienation also arose for participants who described environments that failed to support
+autonomy, competence, and relatedness—usually environments in which they were not treated fairly.
+Autonomy
+Participants described positive interactions with health
+care providers as times when providers listened to and
+respected her choices regarding breast cancer treatment
+and care. Positive interactions with providers were
+described as dyadic conversations between the participant and the health care provider. Participants who had
+positive interactions with providers may have had better
+outcomes. For example, 1 participant describes medication adherence despite not liking the medication because
+she feels like she is in control of her treatment (Table 2,
+quote 6).
+Participants described negative interactions as times
+when providers failed to listen to or respect her views regarding treatment and care. In some cases, providers failed
+to explain treatment options or other information to the
+participant. Many participants believed that their race,
+gender, or sexuality played a significant role in providers
+TABLE 2. Representative Quotes Demonstrating the Autonomy Construct
+1 With almost any doctor, you’re going to come in and you’re going to be patient number 12345. They are challenged with seeing 50 of you every
+day.… I just accept the fact that I’ve got to be my own advocate. I’ve got to do my own research and I’ve got to have a network or resources
+to be able to ask other people questions. (Participant 1, age 53 y lesbian, employed, college graduate, partnered)
+2 Interviewer: Do you think education or class or anything had to do with how you were perceived and how they [health care providers] engaged
+with you?
+Participant: That’s a good question because I think people do. People who are in authority, especially doctors who sometimes think they’re
+God, I think they do adjust and, for lack of a better term, fall back when they realize like, okay, this person has a brain. (Participant 3, age 53 y,
+lesbian, employed, college graduate, single)
+3 Yeah, I go to the doctor more now but I trust my instincts in me and my body and then I listen to the doctor also. But I hate to say, doctors
+don’t really know or feel what’s going on in you.… When I was going through chemo, they gave me… steroids. I took the pill like they told
+me to. I couldn’t sleep. I couldn’t eat. I was pissed. I was mad. I told that doctor, “Don’t you ever give me that pill again and if you do, I’m not
+going to take it.” …I never did and she gave me some other one. (Participant 5, age 64 y, gay, employed, some college, single)
+4 This is my third bout with breast cancer, and the first and second time, it [chemotherapy] did not give me a good chance. I was like [to the
+doctor], “I was really sick. I almost died. Here I sit before you a third time. So this time, I’m going to choose for myself. I will do radiation, but I
+will not do chemotherapy.” …I think that health care providers should accept whatever treatment option you choose and I think they think that
+Black women, especially Black women, because they think we’re dumb already, you know, that we don’t know. And so if you go in there like
+you do know, they don’t have any choice but to respect it. (Participant 6, age 39 y, lesbian, employed, college graduate, married)
+5 I’m glad I advocated for myself. I’m glad that I had the ability that I can tell my doctors, “No, I’m not doing that,” that we can have conversations, that I have good relationships with my doctor. I’m glad that I did the research to see what type of cancer that I have. So I didn’t allow
+them to just say. “Oh, well we’re going to give you chemo whether you like it or not.” (Participant 11, age 56 y, lesbian, employed, some
+college, single)
+6 I did what the doctors, for the most part, wanted in terms of the surgery, doing the tamoxifen and all of that. I knew that it was ultimately my
+decision, but I went with their recommendation. The tamoxifen, like this 10-year thing, I’m not crazy about it. I’m doing it because it’s recommended. I know I could stop if I wanted to just because it’s my choice, but I still feel like it’s primarily my decision to keep taking this, even
+though I’m not crazy about it. Yeah, I think overall it’s my decision. (Participant 12, age 41 y, lesbian, employed, college graduate, single)
+TABLE 3. Representative Quotes Demonstrating the Competence Construct
+1 I was sort of looking for what are the best facilities for treating cancer… and what I found was that the best facility that was fairly close. And I
+really liked my experience there. (Participant 12, age 41 y, lesbian, employed, college graduate, single)
+2 I think that I got the best available doctors because I was able to go out and do my own research. A lot of women don’t do it. They just take what
+they’re given.… I ask a lot of questions, and then the majority of the time they [doctors] say. “Well, you ask a lot of question [s].” Yes, because
+I’m very concerned and I want to know what this means, and I want to know what that means, and I want to know what’s the timeline for this,
+or are you just telling me stuff to be telling me, or is this really going to happen, or how is this going to turn out for me, and how is this going to
+make me feel, and what is that going to do for me? (Participant 14, age 59 y, lesbian, some college, retired, single)
+3 My mom had to take her chemo treatments in the hospital, and doctors would come in and they had great bedside manner, but they don’t want
+to tell you anything. With my mom, we didn’t have options. We took what they gave us. I think that prepared me for when I did have to fight that
+on my own journey. I built my team of my cancer doctors. I vetted people and I knew if I didn’t like someone, or 1 of my doctors recommended
+someone and I didn’t find good reviews on them, or I didn’t feel comfortable with them, then I turned them down. (Participant 1, age 53 y
+lesbian, employed, college graduate, partnered)
+4 The doctor—White doctor—he’s just checking and feeling, and he’s saying, “Oh, you’re kind of young. I’m sure it’s not a malignant lump.” I had
+no idea what he was talking about, so I’m just listening, and he’s talking over me to the nurse like I’m not even there. So I’m just laying there,
+and I’m really scared, and so he gives me an order to go see another doctor. I don’t have another doctor so he’s like, “Just call this doctor for
+follow-up,” and I’m like, “I don’t know where this doctor is. I don’t know where I’m going.” (Participant 6, age 39 y, lesbian, employed, college
+graduate, married)
+Original Article
+78 Cancer January 1, 2021
+not respecting their choices surrounding treatment and
+care. Some participants were able to exercise agency to
+get the care they needed, although doing so required
+additional effort.
+This is my third bout with breast cancer, and the
+first and second time, it [chemotherapy] did not
+give me a good chance. I was like [to the doctor], “I
+was really sick. I almost died. Here I sit before you
+a third time. So this time, I’m going to choose for
+myself. I will do radiation, but I will not do chemotherapy.…” I think that health care providers should
+accept whatever treatment option you choose, and I
+think they think that Black women, especially Black
+women, because they think we’re dumb already, you
+know, that we don’t know. And so, if you go in there
+like you do know, they don’t have any choice but to
+respect it.
+A supportive environment for autonomy was often
+described by participants who were able to have open
+conversations with their health care providers about
+screening, treatment, and care.
+Competence
+Participants who described more positive experiences
+with health care providers not only were able to exercise
+autonomy but also had the self-efficacy to ask for and find
+the type of care that fit their needs (Table 3, quote 1).
+By contrast, some participants described feeling lost
+and unable to find the necessary information they needed
+within the health care system and providers who failed to
+help them. In recalling her initial screening, 1 participant
+described:
+So I’m just laying there, and I’m really scared, and so he
+[the doctor] gives me an order to go see another doctor.
+I don’t have another doctor, so he’s like, “Just call this
+doctor for follow-up” and I’m like, “I don’t know where
+this doctor is. I don’t know where I’m going.”
+Again, many participants believed that their race, gender, and sexuality may have played a role when health care
+providers or administrative staff were unhelpful in connecting them to the services and care they needed (Table 3,
+quote 4; Table 4, quotes 8-9).
+Relatedness
+Participants described positive interactions with health
+care providers who shared at least 1 characteristic
+(eg, race, gender, sexuality) with the provider. Although
+some participants sought health care providers who were
+Black women, many participants choose providers based
+on recommendations or who were in their network. It
+seemed rare for participants to have providers who identified as sexual minorities. When some congruence existed
+between the participant and her provider, participants
+more often described providers as treating them like
+human beings, understanding and being aware of their
+needs, and being accepting of all the participant’s intersectional identities (Table 4, quote 2).
+Generally, feelings of relatedness appeared to facilitate an environment in which participants could ask
+for what they needed and felt that they were in control of their experience. However, there were exceptions. One participant described a scenario with a Black
+female primary care physician who made erroneous
+assumptions about her religious beliefs on the basis
+of her race, which the participant did not appreciate
+(Table 4, quote 3).
+Alienation
+Participants described feelings of alienation when health
+care providers failed to create environments that supported autonomy, competence, and relatedness. Feelings
+of alienation led some to not seek care with a provider
+again, as 1 participant describes below:
+I went to see a reconstruction doctor, and the way
+that he talked to me was the main decision that I
+decided that I wasn’t going to have reconstruction. I
+don’t even think he spent 10 or 15 minutes talking
+to me about it. He just vaguely described what happened and all of this stuff and then looked at my
+breast, and then he said something to the effect,
+“That was my decision,” or whatever. I felt like it
+was just him getting his money. It wasn’t any real
+concern of his. So I didn’t feel comfortable at all.
+I remember that day when I walked out that I was
+like, “This is some mess right here. I’m not even
+comfortable with this.”
+In some cases, participants described health care environments that did not provide them the same access to
+supportive services as other patients and their families. One
+participant described issues she faced trying to access a
+partner support group for her partner (Table 4, quote 11)
+DISCUSSION
+These findings suggest that Black SMW face challenges
+in the health care system for breast cancer screening and
+follow-up care because health care environments and
+health care providers may be less likely to support them.
+Some participants described positive interactions with 
+Black Sexual Minority Women Cancer Care/Greene et al
+Cancer January 1, 2021 79
+providers who listened to and respected their choices
+regarding treatment and care, recognized and attended
+to their specific needs, and empathized and cared for
+them. In these interactions, autonomy, competence,
+and relatedness were supported. By contrast, other participants who described negative experiences recalled
+providers making assumptions about them, neglecting
+to listen to their concerns, and failing to create supportive and welcoming environments. In these circumstances, autonomy, competence, and relatedness were
+not supported, and participants described feelings of
+alienation. The refusal to relate to Black sexual minority
+female patients further alienated those who may already
+have a difficult time navigating the health care system.
+TABLE 4. Representative Quotes Demonstrating the Relatedness Construct
+1 My nurse, my infusion nurse, was amazing. She wasn’t LGBT, but she was very supportive of S [participant’s partner] and, when S wasn’t there,
+she’s, like, “Where’s S? I need S here,” and “You’re not doing what I’m telling you to do. I’m going to tell S.” <laughs> “Don’t let me call S.”
+<laughs>… It means the world. You know, because I can only imagine going through this and then, you know, having to hide who you are at
+the same time. I couldn’t do it. (Participant 1, age 53 y lesbian, employed, college graduate, partnered)
+2 It just so happens that the majority of my doctors are minority women. My radiologist, my breast specialist, my oncologist, my primary are… all
+women, and they’re all minorities. They treated me fairly. They asked about my partner.… I mean, it [sexual orientation] was just like that was
+just another piece of information about me that they knew. It didn’t make a difference 1 way or the other. (Participant 2, age 49 y, lesbian, high
+school, employed, partnered)
+3 I had a doctor 1 time… she was a primary care physician… black female, and this had nothing to do with sexuality, but who prayed with me. I
+was a little thrown because I got a church for that. I didn’t come here for that. I’m not sure how I felt about it. But I know I didn’t appreciate it. I
+was experiencing some anxiety, and she went on to tell me, “Oh, we don’t”—you know, we, as in Black people—”We don’t need this [therapy],
+because we believe in God and we pray.” (Participant 3, age 53 y, lesbian, employed, college graduate, single)
+4 Very good relationship because I did tell him I was gay, and he was a drag queen, so, he was like “I got you girl.” That’s what he said, you know,
+“You’re my girl.” He’d say, “You know you’re my girl.” (Participant 8, age 48 y, lesbian, high school, employed, single)
+5 Initially I was sort of, like, hesitant about having the male doctor as my radiation guy… because I’m a big old dyke at that point. I’m like, I don’t
+want a dude in my stuff… But, you know, I said finally, you know, they say he’s good… [He] was a Black Caribbean man. Even though he
+wasn’t a woman, I felt comfortable with him… I’m not sure I would have felt as comfortable if it had been a White guy. (Participant 10, age 41,
+bisexual, college graduate, self-employed, partnered)
+6 I think my race and gender played a role in why I chose the surgical team and facility that I chose. If I’m going to have to have surgery, I want it
+to be with people who are accustomed to dealing with Black patients—because I feel like that will hopefully make it less likely that their stereotypes and biases will color the health care encounters… that I have with them. (Participant 12, age 41 y, lesbian, college graduate, employed,
+single)
+7 If [the health care providers] present to me that they are concerned and care about the type of care that you get, I’m open to whatever color
+because I’ve had some wonderful experiences with White doctors and Indian doctors.… (Participant 14, age 59 y, lesbian, some college,
+retired, single)
+8 The day of the mammogram, I met with a woman—oh my gosh, she was so nice. She was a Black woman, and she was a patient financial
+representative.… She was amazing, and she actually went above and beyond her job. And she was almost like a mother figure, in that she was
+like, “You’ve got to get this taken care of.” You know, she hugged me, and she said, “You got this.” She was just talking to me, you know, like a
+person. I’d never seen a patient advocate… that treated me like a person.… The first time was a White woman, and she was very condescending. “So you don’t have it? Do you have a second insurance?” I felt embarrassed. (Participant 15, age 38 y, lesbian, some college, employed,
+partnered)
+9 None of the health care providers, aside from my primary, when I do force her to do so, sit down and talk to me in layman terms, where I can
+understand. I suppose they talk over me because I’m a Black woman walking in there. After you get the ultrasound, they take you in a room
+and they talk to you. And he was like, “I see this in a lot of Black women,” you know? “A lot of Black women don’t come here and access
+care.” And how dare you? I’m not talking about Black women. I’m talking about me. I’m walking in—talk to me like I’m an individual, having
+this experience. I understand that your experience, as a health care provider and a White man as a health care provider, who is older, I understand that your experience is that Black women don’t come in here and get care until it’s too late. I don’t want to hear that. Already, I feel like I
+don’t have a team around me. (Participant 15, age 38 y, lesbian, some college, employed, partnered)
+10 I remember seeing this doctor once that was just not a nice guy. I got his name from an LGBT organization and he was supposedly an ally, but
+he just had a horrible bedside manner, he was very rough, didn’t talk to me and tell me what was about to happen. I remember leaving his
+office that day feeling violated. So I never went back, but I just found another doctor because it was still important (Participant 1, age 53 y,
+lesbian, college graduate, employed, partnered)
+11 I used to ask T to go with me, so I’m sure they knew I was a lesbian. I even asked for a support group for T. “We don’t have that. We have
+support group for husbands.” But she’s not a husband. “We don’t have that.” (Participant 6, age 39 y, lesbian, college graduate, employed,
+partnered)
+12 I went to see a reconstruction doctor, and then, when I went to see him, his attitude and the way that he talked to me was the main decision
+that I decided that I wasn’t going to have reconstruction.… I don’t even think he spent 10 or 15 minutes talking to me about it.… I felt like it
+was just him getting his money. It wasn’t any real concern of his. So I didn’t feel comfortable at all. (Participant 14, age 59 y, lesbian, some
+college, retired, single)
+13 When we got there—I didn’t know what to expect. We were told just to go to the breast cancer center. There were a lot of women in there,
+and they just packed them in there.… We were all cattle, sitting in that 1 little room, waiting to be called, you know? I think that as soon as a
+woman comes in there, I think that there should be some kind of conversation about what to expect.… The result of what happens here could
+be like something life-changing for us. I think having someone there with you that has gone through this very same thing, that might volunteer
+to sit with you and not talk, or talk, hold your hand, or help you put this robe on, or, you know, be there with you from start to finish—I had
+to muster up all of my courage to even go to this appointment. I almost—I rescheduled it twice. And I can imagine some people not even
+rescheduling, just saying, “F it, I’m not going to go,” because they’re scared, you know? (Participant 15, age 38 y, lesbian, some college,
+employed, partnered)
+Original Article
+80 Cancer January 1, 2021
+Mistrust of health care providers already keeps many
+SMW from obtaining breast cancer screening.11 Our
+findings confirm that these issues are compounded for
+Black SMW across the breast cancer care continuum,
+from initial screening through treatment and survivorship. Thus breast cancer care should be offered in the
+context of a trusting health care environment and relationship that maximizes Black SMW’s autonomy, competence, and relatedness.
+Several recommendations follow from these data
+(Table 5). Black SMW in this study felt they received better care from health care providers with whom they shared
+1 or more identities. They were more likely to trust health
+care advice and engaged in recommended care when there
+was racial or gender congruence with health care providers. Therefore, diversifying the health care workforce
+across the breast cancer care continuum can increase opportunities for relatedness and improve health care interactions for Black SMW. However, even in contexts when
+providers were not identifying as either Black or sexual
+minority, providers who were open about their identities
+facilitated relatedness.
+All health care providers, regardless of race, gender,
+or sexuality, need more training in providing culturally
+humble and empathetic care to diverse patients. Although
+several participants expressed agency in being able to respond to discrimination, this is an added burden to their
+access to care, and thus providers should address implicit
+biases when delivering care to Black SMW. Our findings suggest that dyadic conversations that used a shared
+clinical decision-making approach and gave patients the
+opportunity to share their preferences and experiences
+boosted feelings of autonomy and made patients more
+comfortable. Previous quantitative studies have shown
+that racial and ethnic minority cancer survivors lack access to physicians who understand their unique cultural
+backgrounds.29 Respecting patients’ autonomy, seeking
+to relate across differences to find common ground, and
+providing space for patients to exercise competence are
+core skills that those who work in the health care profession should cultivate. Training in shared decision making
+should be provided and modeled for all health care providers across the breast cancer care continuum. Finally,
+providing support to help patients navigate an overwhelming health care system could support competence
+and autonomy.
+Providing culturally inclusive health care environments and care can increase autonomy, competence, and
+relatedness while reducing alienation and increasing the
+likelihood of Black SMW being retained in breast cancer
+care. Although our analysis is focused on providers, we
+acknowledge that institutions, including administrative
+staff, can also better embrace the needs of Black SMW.
+This might include having structures and resources in
+place that directly speak to their needs and the needs of
+their caregivers or same-sex partners (eg, support groups
+for same-sex partners). This could also include trainings
+for multiple members of the oncology care team on how
+to best meet the needs of Black SMW. Our research illuminates the needs of Black SMW, who have received little
+attention in the area of breast cancer care. However, because we used a small, purposive sample, results may not
+be applicable to all Black SMW or other groups. Many
+women in our sample were college educated, and some
+had the ability to do their own research and choose their
+own doctors. The limited range of socioeconomic statuses
+across participants prevented us from being able to identify any potential differences in experiences by socioeconomic position. Despite having the means to eventually
+find the care they needed, many women in the sample
+had negative experiences that they attributed to their race
+and/or sexuality.
+The experiences of Black SMW during breast cancer screening and follow-up care captured in this study
+speak to a larger need to address individual and structural-level biases that hinder quality care for Black SMW.
+Better collection of sexual orientation and racial identity
+data in electronic medical records and other databases is
+essential for building the evidence base to understand disparities for those at the intersection of marginalized racial and sexual identities. Integration of antiracism and
+antihomophobia training into professional training programs for health care providers and continuing education
+for practicing providers should be implemented. Pipeline
+programs to ensure diversity within the health care workforce can ensure that all those in care have access to providers who relate to their cultural needs. These broad
+TABLE 5. Recommendations to Improve Breast
+Cancer Screening and Follow-Up Care Among
+Black Sexual Minority Women
+Recommendation 1 Diversify the health care workforce across
+the breast cancer care continuum, including
+health care providers and administrative staff,
+to increase opportunities for relatedness for
+patients.
+Recommendation 2 Provide training in and model shared decision
+making for all health care providers across
+the breast cancer care continuum to increase
+autonomy among patients.
+Recommendation 3 Redesign health care environments and
+resources to be inclusive of patients from all
+backgrounds, including support groups.
+Black Sexual Minority Women Cancer Care/Greene et al
+Cancer January 1, 2021 81
+structural changes may improve health care not only for
+Black SMW, but for all patients.
+FUNDING SUPPORT
+This project was supported with institutional funds from the Johns Hopkins
+Bloomberg School of Public Health. Tonia Poteat’s efforts were supported by
+the Johns Hopkins Clinical Research Scholars Program (grant KL2TR001077).
+Lorraine T. Dean’s efforts were supported by grants from the National
+Cancer Institute (K01CA184288) and the Sidney Kimmel Cancer Center
+(P30CA006973). Naomi Greene was supported by a Cancer Epidemiology,
+Prevention, and Control Training Grant from the National Cancer Institute of
+the National Institutes of Health (TA CA009314).
+CONFLICT OF INTEREST DISCLOSURES
+The authors made no disclosures.
+AUTHOR CONTRIBUTIONS
+All authors substantially contributed to the study and the article. Naomi
+Greene analyzed the data, coded the qualitative interviews, and drafted
+the article. Jowanna Malone coded the qualitative interviews. Mary Anne
+Adams recruited and interviewed participants and contributed to the writing
+of the article. Lorraine T. Dean and Tonia Poteat conceptualized the overall
+research project under which the data were collected, including developing
+the research guide, strategizing participant recruitment, overseeing data collection and analysis, writing elements of the article, and editing the article.
+REFERENCES
+1. American Cancer Society. Cancer Facts & Figures 2019. American
+Cancer Society; 2019. Accessed June 9, 2020. https://www.cancer.
+org/content/dam/cancer-org/research/cancer-facts-and-statistics/annua
+l-cancer-facts-and-figures/2019/cancer-facts-and-figures-2019.pdf
+2. Matthews AK, Li CC, Ross N, Ram J, Ramsey R, Aranda F. Breast and
+cervical cancer screening behaviors of African American sexual minority
+women. J Gen Pract. 2013;1:2. doi:10.4172/2329-9126.1000107
+3. McElroy JA, Wintemberg JJ, Williams A. Comparison of lesbian
+and bisexual women to heterosexual women’s screening prevalence
+for breast, cervical, and colorectal cancer in Missouri. LGBT Health.
+2015;2:188-192. doi:10.1089/lgbt.2014.0119
+4. Meads C, Moore D. Breast cancer in lesbians and bisexual women:
+systematic review of incidence, prevalence and risk studies. BMC Public
+Health. 2013;13:1127. doi:10.1186/1471-2458-13-1127
+5. Newman LA. Breast cancer disparities: high-risk breast cancer
+and African ancestry. Surg Oncol Clin N Am. 2014;23:579-592.
+doi:10.1016/j.soc.2014.03.014
+6. Institute of Medicine (US) Committee on Lesbian, Gay, Bisexual, and
+Transgender Health Issues and Research Gaps and Opportunities. The
+Health of Lesbian, Gay, Bisexual, and Transgender People: Building
+a Foundation for Better Understanding. National Academies Press;
+2011. doi:10.17226/13128
+7. Cochran SD, Mays VM, Bowen D, et al. Cancer-related risk indicators and preventive screening behaviors among lesbians and bisexual women. Am J Public Health. 2001;91:591-597. doi:10.2105/
+AJPH.91.4.591
+8. Lacombe-Duncan A, Logie CH. Correlates of clinical breast examination among lesbian, gay, bisexual, and queer women. Can J Public Heal.
+2016;107(4-5):e467-e472. doi:10.17269/CJPH.107.5351
+9. Clark MA, Bonacore L, Wright SJ, Armstrong G, Rakowski W. The
+Cancer Screening Project for Women: experiences of women who partner with women and women who partner with men. Women Health.
+2003;38:19-33. doi:10.1300/J013v38n02_02
+10. Brown JP, Tracy JK. Lesbians and cancer: an overlooked health disparity. Cancer Causes Control. 2008;19:1009-1020. doi:10.1007/s1055
+2-008-9176-z
+11. Hart SL, Bowen DJ. Sexual orientation and intentions to obtain
+breast cancer screening. J Womens Health (Larchmt). 2009;18:177-185.
+doi:10.1089/jwh.2007.0447
+12. McCarthy AM, Kim JJ, Beaber EF, et al. Follow-up of abnormal breast
+and colorectal cancer screening by race/ethnicity. Am J Prev Med.
+2016;51:507-512. doi:10.1016/j.amepre.2016.03.017
+13. Gorin SS, Heck JE, Cheng B, Smith SJ. Delays in breast cancer diagnosis and treatment by racial/ethnic group. Arch Intern Med.
+2006;166:2244-2252. doi:10.1001/archinte.166.20.2244
+14. Warner ET, Tamimi RM, Hughes ME, et al. Time to diagnosis
+and breast cancer stage by race/ethnicity. Breast Cancer Res Treat.
+2012;136:813-821. doi:10.1007/s10549-012-2304-1
+15. American Cancer Society. Cancer Facts & Figures for African Americans
+2016-2018. American Cancer Society; 2016. Accessed June 9, 2020.
+https://www.cancer.org/content/dam/cancer-org/research/cancer-facts
+-and-statistics/cancer-facts-and-figures-for-african-americans/cance
+r-facts-and-figures-for-african-americans-2016-2018.pdf
+16. Selove R, Kilbourne B, Fadden MK, et al. Time from screening mammography to biopsy and from biopsy to breast cancer treatment among
+Black and White, women Medicare beneficiaries not participating in a
+health maintenance organization. Womens Health Issues. 2016;26:642-
+647. doi:10.1016/j.whi.2016.09.003
+17. Richardson LC, Henley SJ, Miller JW, Massetti G, Thomas CC.
+Patterns and trends in age-specific Black-White differences in breast
+cancer incidence and mortality—United States, 1999-2014. MMRW
+Morb Mortal Wkly Rep. 2016;65:1093-1098. doi:10.15585/mmwr.
+mm6540a1
+18. Jones BA, Dailey A, Calvocoressi L, et al. Inadequate follow-up of abnormal screening mammograms: findings from the race differences in
+screening mammography process study (United States). Cancer Causes
+Control. 2005;16:809-821. doi:10.1007/s10552-005-2905-7
+19. Perez-Stable EJ, Afable-Munsuz A, Kaplan CP, et al. Factors influencing time to diagnosis after abnormal mammography in diverse
+women. J Womens Health (Larchmt). 2013;22:159-166. doi:10.1089/
+jwh.2012.3646
+20. Wujcik D, Fair AM. Barriers to diagnostic resolution after abnormal
+mammography. Cancer Nurs. 2008;31:E16-E30. doi:10.1097/01.
+ncc.0000305764.96732.45
+21. Malone J, Snguon S, Dean LT, Adams MA, Poteat T. Breast cancer
+screening and care among Black sexual minority women: a scoping
+review of the literature from 1990 to 2017. J Womens Health (Larchmt).
+2019;28:1650-1660. doi:10.1089/jwh.2018.7127
+22. Seelman KL, Adams MA, Poteat T. Interventions for healthy aging
+among mature Black lesbians: recommendations gathered through
+community-based research. J Women Aging. 2017;29:530-542.
+doi:10.1080/08952841.2016.1256733
+23. Washington TA, Murray JP. Breast cancer prevention strategies for
+aged Black lesbian women. J Gay Lesbian Soc Serv. 2005;18:89-96.
+doi:10.1300/J041v18n01
+24. Deci EL, Ryan RM. The “what” and “why” of goal pursuits: human
+needs and the self-determination of behavior. Psychol Inquiry.
+2000;11:227-268.
+25. Ryan RM, Deci EL. Self-determination theory and the facilitation of
+instrinsic motivation, social development, and well-being. Am Psychol.
+2000;55:68-78. doi:10.1002/jsfa.2740050407
+26. Patrick H, Williams GC. Self-determination theory: its application to
+health behavior and complementarity to motivational interviewing. Int
+J Behav Nutr Phys Act. 2012;9:18. doi:10.1186/1479-5868-9-18
+27. Center for Community Health & Prevention, University of Rochester
+Medical Center Rochester NY. Self-Determination Theory. Accessed
+April 14, 2020 https://www.urmc.rochester.edu/community-health/
+patient-care/self-determination-theory.aspx
+28. Ng JYY, Ntoumanis N, Thogersen-Ntoumani C, et al. Selfdetermination theory applied to health contexts: a meta-analysis.
+Perspect Psychol Sci. 2012;7:325-340. doi:10.1177/1745691612
+447309
+29. Butler SS, Winkfield KM, Ahn C, et al. Racial disparities in patient-reported measures of physician cultural competency among cancer survivors in the United States. JAMA Oncol. 2020;6:152-154.
